@@ -6,6 +6,8 @@
 .title{
     text-align:center;
     margin:2em;
+    font-size: xx-large;
+    color: darkgoldenrod;
 }
 .topRow,.bottomRow{
     display:flex;
@@ -19,10 +21,10 @@
     justify-content: space-evenly;
 }
 .say{
-    border:solid purple;
+    border:solid black;
     text-align:center;
-    background-color:blue;
-    color:white;
+    background-color:yellow;
+    color:black;
     height:23px;
     width:30%;
 }
@@ -33,8 +35,4 @@
 .fillerPic{
     width:100%;
     height:100%;
-}
-​
-#videoPosts{
-    border:solid green
 }
