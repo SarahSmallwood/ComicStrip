@@ -4,10 +4,11 @@
     padding:3em;
 }
 .title{
+    margin-bottom: 10px;
     text-align:center;
-    margin:2em;
-    font-size: xx-large;
-    color: darkgoldenrod;
+    font-size: 35px;
+    font-family: serif;
+    color: rgb(243, 215, 30);
 }
 .topRow,.bottomRow{
     display:flex;
@@ -19,11 +20,12 @@
     height:6vh;
     display:flex;
     justify-content: space-evenly;
+    margin-bottom: 30px;
 }
 .say{
     border:solid black;
     text-align:center;
-    background-color:yellow;
+    background-color:rgb(243, 215, 30);
     color:black;
     height:23px;
     width:30%;
